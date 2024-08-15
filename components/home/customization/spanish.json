@@ -1,0 +1,72 @@
+{
+  "sections": {
+    "about": "Acerca de",
+    "skills": "Habilidades",
+    "certifications": "Certificados",
+    "contact": "Contacto",
+    "experience": "Experiencia",
+    "posts": "Publicacion",
+    "learning": "Aprendizaje",
+    "front": "Front-End",
+    "back": "Back-End"
+  },
+  "name": "Gonzalo Calderón",
+  "title": "Desarrollador Web / Tester de QA",
+  "nav": {
+    "about": "Acerca de",
+    "skills": "Habilidades",
+    "certifications": "Certificaciones",
+    "contact": "Contacto",
+    "experience": "Experiencia",
+    "posts": "Publicaciones",
+    "learning": "Aprendizaje",
+    "front": "Front-End",
+    "back": "Back-End",
+    "home": "Inicio"
+  },
+  "projects": {
+    "title": "Proyectos",
+    "fitnessBackend": "Fitness Back-End",
+    "apiUsers": "ApiUsuarios (mi aporte en proyectos comunitarios)",
+    "apiProducts": "ApiProductos (mi aporte en proyectos comunitarios)",
+    "clothingECommerce": "E-Commerce de Ropa (en progreso)",
+    "searchFilters": "Filtros de búsqueda"
+  },
+  "certifications": {
+    "title": "Certifications",
+    "argentina_programa_web_cert": "Argentina Programa - Certificado Web",
+    "junior_achievement_web_cert": "Junior Achievement - Habilidades Blandas",
+    "inclusive_capacitation-web-cert": "Capacitación Inclusiva - Testing QA"
+  },
+  "experience": {
+    "title": "Experiencia",
+    "digital_shakers": "Digital Shakers - Creador de Contenido - (2024-presente)",
+    "community_projects": "Proyectos Comunitarios - (2024-presente)",
+    "truck_driver_assistant": "Asistente de conductor de camión (2022-2023)"
+  },
+  "front": {
+    "title": "Proyectos",
+    "athletics_web": "Web de Atletismo",
+    "fitness_web": "Fitness-Web (en progreso)",
+    "unturned_web": "Unturned-Web",
+    "clothing_ecommerce": "E-Commerce de Ropa (en progreso)"
+  },
+  "skills": {
+    "title": "Habilidades",
+    "description": "Esta es mi pila tecnológica actual, en la que me siento más cómodo y en la que estoy tratando de especializarme en este momento.",
+    "testing_qa": "Pruebas QA",
+    "persevering": "Perseverante",
+    "communication": "Comunicación",
+    "stress_dealing": "Manejo del Estrés"
+  },
+  "learning": {
+    "title": "Aprendizaje",
+    "subtitle": "Estas son las tecnologías en las que estoy aprendiendo a especializarme en el back-end.",
+    "typescript": "TypeScript",
+    "docker": "Docker",
+    "specialization": "Especialización en back-end",
+    "tailwind": "TailwindCss"
+  },
+  "aboutText": "Soy Gonza, Desarrollador Web de Argentina. Este es mi sitio web, un lugar donde comparto mis proyectos, dejo volar mi imaginación y dejo que las personas sepan cosas sobre mí. Aquí están mis intereses personales, para propósitos profesionales puede que te interese mi trabajo o mis habilidades.",
+    "Lets start": "Empecemos"
+}

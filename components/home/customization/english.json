@@ -1,0 +1,75 @@
+{
+  "sections": {
+    "about": "About",
+    "skills": "Skills",
+    "certifications": "Certificates",
+    "contact": "Contact",
+    "experience": "Experience",
+    "posts": "Posts",
+    "learning": "Learning",
+    "front": "Front-End",
+    "back": "Back-End"
+  },
+  "name": "Gonzalo Calderón",
+  "title": "Web Developer / QA Tester",
+  "nav": {
+    "about": "About",
+    "skills": "Skills",
+    "certifications": "Certifications",
+    "contact": "Contact",
+    "experience": "Experience",
+    "posts": "Posts",
+    "learning": "Learning",
+    "front": "Front-End",
+    "back": "Back-End",
+    "home": "Home"
+  },
+  "projects": {
+    "title": "Projects",
+    "fitnessBackend": "Fitness Back-end",
+    "apiUsers": "ApiUsers (my apport in community projects)",
+    "apiProducts": "ApiProducts (my apport in community projects)",
+    "clothingECommerce": "Clothing E-Commerce (in progress)",
+    "searchFilters": "Search filters"
+  },
+  "certifications": {
+    "title": "Certifications",
+    "argentina_programa_web_cert": "Argentina Programa - Web Development",
+    "junior_achievement_web_cert": "Junior Achievement - Bland Skills",
+    "inclusive_capacitation-web-cert": "Inclusive Capacitation - Testing QA"
+  },
+  "experience": {
+    "title": "Experience",
+    "digital_shakers": "Digital Shakers - Content Creator - (2024-present)",
+    "community_projects": "Community Projects - (2024-present)",
+    "truck_driver_assistant": "Truck driver assistant (2022-2023)"
+  },
+  "front": {
+    "title": "Projects",
+    "athletics_web": "Athletics-Web",
+    "fitness_web": "Fitness-Web (in progress)",
+    "unturned_web": "Unturned-Web",
+    "clothing_ecommerce": "Clothing E-Commerce (in progress)"
+  },
+  "skills": {
+    "title": "Skills",
+    "description": "This is my current tech stack, in which I feel most comfortable and where I'm trying to specialize right now.",
+    "testing_qa": "Testing QA",
+    "persevering": "Persevering",
+    "communication": "Communication",
+    "stress_dealing": "Stress Dealing"
+  },
+  "learning": {
+    "title": "Learning",
+    "subtitle": "These are the technologies where I'm learning to specialize in back-end.",
+    "typescript": "TypeScript",
+    "docker": "Docker",
+    "specialization": "Specialization in back-end",
+    "tailwind": "TailwindCss"
+  },
+
+  "aboutText": "I'm Gonza, Web Developer from Argentina. This is my website, a place where I share my projects, let my imagination run wild and let people know things about me. Here are my personal interests, for professional purposes you can be interested in my work or my skills.",
+    "Lets start": "Let's start"
+  
+  
+}
