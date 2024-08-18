@@ -40,7 +40,7 @@ const Nav = () => {
           <li><Link to="/about" onClick={() => handleNavClick('/about', <About/>)}><img  className='icons' src={Img1} alt={t('nav.about')}/> {t('nav.about')}</Link></li>
           <li><Link to="/skills" onClick={() => handleNavClick('/skills', <Skills/> )}><img  className='icons' src={Img2} alt={t('nav.skills')}/> {t('nav.skills')}</Link></li>
           <li><Link to="/certifications" onClick={() => handleNavClick('/certifications', <Certifications/>)}><img  className='icons' src={Img3} alt={t('nav.certifications')}/> {t('nav.certifications')}</Link></li>
-          <li><a href="https://drive.google.com/file/d/1yG13X6514OxQKaoNTrfHPdYOS_1senpE/view?usp=drive_link" target="_blank" rel="noopener noreferrer" onClick={() => handleNavClick('/contact')} ><img className='icons' src={Img4} alt={t('nav.contact')} /> {t('nav.contact')}</a></li>
+          <li><a href="https://drive.google.com/file/d/1yG13X6514OxQKaoNTrfHPdYOS_1senpE/view?usp=sharing" target="_blank" rel="noopener noreferrer" onClick={() => handleNavClick('/contact')} ><img className='icons' src={Img4} alt={t('nav.contact')} /> {t('nav.contact')}</a></li>
           <li><Link to="/experience" onClick={() => handleNavClick('/experience', <Experience/>)}><img  className='icons' src={Img5} alt={t('nav.experience')}/> {t('nav.experience')}</Link></li>
           <li><Link to="/posts" onClick={() => handleNavClick('/posts', <Posts/>)}><img  className='icons' src={Img6} alt={t('nav.posts')}/> {t('nav.posts')}</Link></li>
           <li><Link to="/learning" onClick={() => handleNavClick('/learning', <Learning/>)}><img  className='icons' src={Img7} alt={t('nav.learning')}/> {t('nav.learning')}</Link></li>
